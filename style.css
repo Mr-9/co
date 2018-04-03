@@ -1,8 +1,10 @@
 body {
-    background:#EEF3FA;
+    background:#EEF3FA url(think.png) no-repeat bottom left;
+    background-attachment: fixed;
     color: #718D77;
     margin-top:0;
     padding-top: 0;
+    padding-left: 200px;
 }
 h1 {
     margin-left: 1em;
